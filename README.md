@@ -11,5 +11,3 @@ ChatGPT was used to generate the expression representing the colours in the hexg
 
 The interactive buttons in this map shows the boundary of all collisions, with the area divided into hexagons and a range of collisions shown in the legend.
 
-Link to map:
-file:///C:/Users/Lanting/Downloads/index.html 
